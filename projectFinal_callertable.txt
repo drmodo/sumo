@@ -1,0 +1,20 @@
+main
+	myDelay1
+	int2double
+		NRM3232
+			RES032
+			SETFUN32
+			FIXSIGN32
+	Div_32x32_FP
+		SETFDZ32
+		RES032
+		SETFOV32
+		SETFUN32
+	double2int
+		SETIOV3224
+	move_forward
+interrupt
+	move_backward
+	myDelay2
+	turn_right
+	move_forward
