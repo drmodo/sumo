@@ -9,6 +9,6 @@ The robot was equipped with three sensors and four actuators, including an analo
 2. IR sensor to detect the white color (Digital) 
 3. 4-Gearbox actuators 
 
-All important info are commented in the c file. 
+All important info are commented in the c file, however you need to upload the .asm file to your PIC. 
 
 Thank you!
