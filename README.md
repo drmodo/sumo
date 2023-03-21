@@ -4,11 +4,11 @@ In order to fulfill the requirements of the Embedded Systems course at Princess 
 
 The robot was equipped with three sensors and four actuators, including an analog ultrasonic sensor (hc-sr04) and a digital IR sensor capable of detecting white color.
 
-### Used sensors 
-1. ultrasonic sensor hc-sr04 (Analog)
+### Used Parts
+1. Ultrasonic Sensor hc-sr04 (Analog)
 2. IR sensor to detect the white color (Digital) 
+3. 4-Gearbox actuators 
 
-
-All important info are commented in the c file 
+All important info are commented in the c file. 
 
 Thank you!
