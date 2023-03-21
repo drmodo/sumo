@@ -7,7 +7,7 @@ The robot was equipped with three sensors and four actuators, including an analo
 ### Used Parts
 1. Ultrasonic Sensor hc-sr04 (Analog)
 2. IR sensor to detect the white color (Digital) 
-3. 4-Gearbox actuators 
+3. Four-Gearbox actuators 
 
 All important info are commented in the c file, however you need to upload the .asm file to your PIC. 
 
